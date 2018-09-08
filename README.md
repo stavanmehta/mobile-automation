@@ -22,3 +22,6 @@ Mobile automation using Appium Java client
   
 ## Execute Test suite
 `mvn clean test`
+
+## Demo
+https://github.com/stavanmehta/mobile-automation/tree/master/demo
