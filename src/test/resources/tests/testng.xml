@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Signup" verbose="1">
+	<!-- <test name="emailvaliation">
+		<classes>
+			<class name="automation.EmailValiationTestSuite" />
+		</classes>
+	</test> -->
+	<test name="signupandlogin">
+		<classes>
+			<class name="automation.SignupTestSuite" />
+			<!-- <class name="automation.TestNG" /> -->
+		</classes>
+	</test>
+</suite>
